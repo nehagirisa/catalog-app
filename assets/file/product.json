@@ -1,0 +1,60 @@
+  {
+    "products": [
+      {
+        "id": 1,
+        "name": "Mammaearth Onion Shampo",
+        "image": "https://pixiesmedia-145ca.kxcdn.com/pub/media/catalog/product/cache/c7f01f4867dd450caa32398d52a9c6db/0/1/01-mamaearth-tea-tree-shampoo.jpg",
+        "disc": "Hair Growth & Hair Fall Control with Onion Oil & Plant Keratin 400ml",
+        "color": "#33505a",
+        "price": 559
+      },
+      {
+        "id": 2,
+        "name": " Mamaearth Healty Head Care Shampo",
+        "image": "https://honasa-mamaearth-production.imgix.net/i/m/img_6147-props-1_cehiqqy1vaz2wa3s.jpg?auto=format&fit=crop&w=546.4&auto=compress",
+        "disc": "This is for healty hare it contains  Bhringraj & Amla for hair nourishment and Biotin which makes hair thick. in 200ml",
+        "color": "#33505a",
+        "price": 349
+      },
+      {
+        "id": 3,
+        "name": "Mamaearth Tea Tree Shampo",
+        "image": "https://pixiesmedia-145ca.kxcdn.com/pub/media/catalog/product/cache/c7f01f4867dd450caa32398d52a9c6db/0/1/01-mamaearth-tea-tree-shampoo.jpg",
+        "disc": "It contains Tea Tree oil,Ginger Oil,Vitamin E.that helps in reducing itch.",
+        "color": "#33505a",
+        "price": 349
+      },
+      {
+        "id": 4,
+        "name": "Mamaearth Rice Water shampoo",
+        "image": "https://honasa-mamaearth-production.imgix.net/r/i/rice-shampoo_1.jpg",
+        "disc": "It contains Tea Tree oil,Ginger Oil,Vitamin E.that helps in reducing itch.",
+        "color": "#33505a",
+        "price": 400
+      },
+      {
+        "id": 5,
+        "name": "Mamaearth BhringAmla Conditioner",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61%2BVltFytnL._SY355_.jpg",
+        "disc": "hair fall with Bhringraj & Amla for Intense Hair Treatment – 250ml",
+        "color": "#33505a",
+        "price": 350
+      },
+      {
+        "id": 6,
+        "name": "Mamaearth anti dandruff Conditioner",
+        "image": "https://media6.ppl-media.com/tr:h-750,w-750,c-at_max/static/img/product/191767/mamaearth-anti-dandruff-conditioner-with-tea-tree-and-ginger-oil-for-dandruff-free-hair-250-ml_1_display_1577707622_d7457693.jpg",
+        "disc": "Tea tree and Ginger Oil, for dandruff free Hair (200ml)",
+        "color": "#33505a",
+        "price": 400
+      },
+      {
+        "id": 7,
+        "name": "Mamaearth Onion Conditioner",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/41mD1SPNZ3L.jpg",
+        "disc": "Hair Growth & Hair Fall Control with Coconut Oil 250ml",
+        "color": "#33505a",
+        "price": 450
+      }
+    ]
+  }
